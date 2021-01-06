@@ -22,7 +22,7 @@ print(res)
 We converted result to ASCII and saw that the first part of the file is `PK` which means we have a zip file. So we saved it as a zip file.  
 We extracted this zip file and got a file named `$I4A67FE.docx`. Files having `$` as their first character of name, are files related to Recycle Bin.  
 We can recover these kind of files using [$I Parse](https://df-stream.com/recycle-bin-i-parser/). After recovery we got these data:  
-![recovered data]()  
+![recovered data](https://github.com/aahsani/VulnConCTF2020-Writeups/blob/master/Forensic/Punishment/res.jpg)  
   
   
 Flag:
