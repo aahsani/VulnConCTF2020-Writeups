@@ -78,7 +78,7 @@ Each time we used command below to test passwords:
 john --wordlist=passList.txt Keepasshash.txt
 ```
 Finaly we got the correct password:  
-![result]()
+![result](https://github.com/aahsani/VulnConCTF2020-Writeups/blob/master/Miscellaneous/Johnny/pass.jpg)
 
 Password is:  
 ```
